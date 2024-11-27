@@ -1,5 +1,5 @@
 # speller-
-Speller is a C program that traverses through a text file (dictionary is taken as input in this program) and finds wrongly spelled words and corrects them using another file. 
+Speller is a C program that traverses through a text file (dictionary is taken as input in this program) and finds typos and corrects them using a word dictionary database. 
 
 sub files used in this program are :
     Dctionary.c: c program to open and traverse through a text file. also calls the speller function.
